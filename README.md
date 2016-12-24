@@ -22,3 +22,9 @@ amount of times in this project, so we think it is unfair to if some of us getti
 in the master repo. One of our member (Aijie Chen)'s commits doesnt show up in the msater repo, but her work was showed up in the
 file shes's worked on. And the contributors section doent list her name too. Once again, everybody contribute the same amount of
 work. Thanks.
+
+## Group member and github username
+- Wai Loon Chong(derrickc0527, Wai loon Chong)
+- KaiYing Chen(ckyko)
+- XiaoHang Zou(xzou000)
+- Aijie Chen(aijie)
